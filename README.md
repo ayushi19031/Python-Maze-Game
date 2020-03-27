@@ -10,7 +10,13 @@ This is a game in python using classes and objects. It is a grid of size(n*n) an
 3. time module  
 4. random module  
 
-Extensive application of the concept of classes, objects and methods.
+# How to play?
+1.User runs the python file on the command terminal.  
+2. The User will enter an integer. The program will display a grid of that size with starting position, ending position, randomly generated obstacles and numbers(to increase points).  
+3. Then the user enters a string of moves. Say, "L3R6A3C2U4D2". L is for left, R for right, U for up, D for down. C is to rotate the grid clockwise and A for anticlockwise. The number after each letter denotes how many times operation has to be performed.  
+4. If after executing the whole string, the player reaches the end destination, he wins. Else he loses.  
+
+--Extensive application of the concept of classes, objects and methods.
 
 Further improvements possible:
 Use of tkinter module and pygame module to make the game have animative features and more good looking and allow interaction other than giving a text input.
