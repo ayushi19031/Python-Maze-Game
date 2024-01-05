@@ -20,3 +20,6 @@ This is a game in python using classes and objects. It is a grid of size(n*n) an
 
 # Further improvements possible:  
 Use of tkinter module and pygame module to make the game have animative features and more good looking and allow interaction other than giving a text input. Also, graph algorithms can be used to give user hint of shortest and most profitable path.
+
+
+I love this ,this game is amazing.
